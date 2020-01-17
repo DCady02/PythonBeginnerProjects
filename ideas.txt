@@ -12,3 +12,6 @@ learn django
 Look for python applications in the beta, such as inventory and stuff.
 	"beta operating system" or streamlined beta web app or interface
 
+https://github.com/tuvtran/project-based-learning#python
+
+^^good projects
