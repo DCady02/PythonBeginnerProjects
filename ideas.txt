@@ -1,0 +1,14 @@
+password vault
+kahoot spam bot
+a blockchain
+Login System
+Blackjack
+excel module - business card data entry program (start text based then evolve to a gui [pyqt5] or web app)
+turtle module
+tic tac toe
+
+learn django
+
+Look for python applications in the beta, such as inventory and stuff.
+	"beta operating system" or streamlined beta web app or interface
+
